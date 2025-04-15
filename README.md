@@ -20,5 +20,5 @@ Where can i find mu key logs?
 Got to key_log.txt anf fing the logs in the file
 >If the file i missing create a new file "key_log.txt"
 
-[+}Starting Keylogger...
+[+]Starting Keylogger...
 [+]Loging...Press ESC to stop.

